@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Heebo&display=swap');
+body {
+    background-color: #2c061f!important;
+    color: #eff7e1 !important;
+    font-family: 'Heebo', sans-serif !important;
+}
+
+td {
+    color: #fff !important;
+}
+#tablebody{
+    max-width: 500px;
+}
+
+.validtion {
+    color: #721c24;
+    background-color: #f8d7da;
+    border-radius: 0.25rem;
+    border: 1px solid #f5c6cb;
+    margin-top: 5px;
+    padding: 10px;
+    display: none;
+}
